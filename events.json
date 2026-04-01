@@ -1,0 +1,56 @@
+[
+    {
+        "name": "CHEMOVATE 2.0",
+        "type": "Hackathon",
+        "date": "April 12, 2026",
+        "description": "Hardware edition hackathon focused on hands-on building and rapid prototyping.",
+        "location": "Hackathon and Training Centre",
+        "latitude": 12.86942,
+        "longitude": 80.21678
+    },
+    {
+        "name": "ICRREDM 2026",
+        "type": "International Conference",
+        "date": "May 4, 2026",
+        "description": "Conference on recent research in engineering devices and advanced materials.",
+        "location": "Hackathon and Training Centre",
+        "latitude": 12.86942,
+        "longitude": 80.21678
+    },
+    {
+        "name": "IGNITE 2026",
+        "type": "Conference",
+        "date": "June 18, 2026",
+        "description": "Innovations in materials science, technology, engineering, and management.",
+        "location": "Hackathon and Training Centre",
+        "latitude": 12.86942,
+        "longitude": 80.21678
+    },
+    {
+        "name": "Idea Pitch and Project Expo",
+        "type": "Expo",
+        "date": "July 8, 2026",
+        "description": "A showcase for student ideas and projects in front of faculty and industry guests.",
+        "location": "Hackathon and Training Centre",
+        "latitude": 12.86942,
+        "longitude": 80.21678
+    },
+    {
+        "name": "ASTRANOVA 2026",
+        "type": "Technical Symposium",
+        "date": "August 22, 2026",
+        "description": "Annual symposium with technical talks, contests, workshops, and paper presentations.",
+        "location": "Hackathon and Training Centre",
+        "latitude": 12.86942,
+        "longitude": 80.21678
+    },
+    {
+        "name": "Hackwartz 2026",
+        "type": "Hackathon",
+        "date": "September 14, 2026",
+        "description": "A 24-hour coding and innovation sprint for cross-discipline student teams.",
+        "location": "Hackathon and Training Centre",
+        "latitude": 12.86942,
+        "longitude": 80.21678
+    }
+]
